@@ -1,0 +1,14 @@
+{
+    "team.showWelcomeMessage": false,
+    "editor.formatOnSave": true,
+    "python.linting.pycodestyleEnabled": false,
+    "python.linting.pylintPath": "pylint",
+    "python.linting.pylintArgs": [
+        "--load-plugins",
+        "pylint_django"
+    ],
+    "python.venvPath": "${workspaceFolder}/backend/env/Scripts/python.exe",
+    "python.linting.pylintEnabled": true,
+    "python.pythonPath": "${workspaceFolder}/backend/env/Scripts/python.exe",
+    "python.linting.enabled": true
+}
